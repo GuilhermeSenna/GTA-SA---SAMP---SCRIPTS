@@ -8,8 +8,10 @@
 
 <h3>Gta3script:</h3>
 
-.sc = Source Code.
-.cs = Custom Script.
+<ul>
+ <li>.sc = Source Code.</li>
+ <li>.cs = Custom Script.</li>
+</ul>
 
 <h3>Moonloader:</h3>
 
