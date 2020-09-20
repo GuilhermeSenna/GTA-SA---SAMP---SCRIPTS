@@ -3,8 +3,6 @@
 
  About the scripts: the old ones were created in Gta3Script Language: <a href=“https://gtaforums.com/topic/876530-gta3script-toolchain/“>Link oficial</a>; and the new ones will be created in .lua for Moonloader: <a href=“https://gtaforums.com/topic/890987-moonloader/“>Link oficial</a>. </h3>
 
-<hr>
-
 <h2>- File formats:</h2>
 
 
@@ -18,7 +16,6 @@
 <ul>
 <li>.lua</li>
 </ul>
-<hr>
 
 <h2>- Requirements for using scripts from:</h2>
 
