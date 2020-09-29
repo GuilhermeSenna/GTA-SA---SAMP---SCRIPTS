@@ -30,13 +30,13 @@
 <ul>
 <li>Cleo 4</li>
 <li>Sampfuncs</li>
-<li>Modloader (maybe)</li>
+<li>Modloader(maybe)</li>
 </ul>
 
 <h3>Moonloader:</h3>
 
 <ul>
-<li>Moonloader (obviously)/li>
+<li>Moonloader (obviously)</li>
 <li>Sampfuncs</li>
 <li>Modloader(maybe)</li>
 </ul>
