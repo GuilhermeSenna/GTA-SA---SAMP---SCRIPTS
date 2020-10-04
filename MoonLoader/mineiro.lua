@@ -8,8 +8,8 @@ function main()
         -- status 1 = entrou na mina
         -- status 2 = pegou a rocha
         -- status 3 = saiu da mina
-        -- printStringNow(string.format( "%f %f %f", x, y, z), 1)
-        if isCharInArea3d(PLAYER_PED, -610, 2326, 82, -612, 2328, 79, 1) and status == 0 then
+        printStringNow(string.format( "%f %f %f", x, y, z), 1)
+        if isCharInArea3d(PLAYER_PED, -612, 2324, 78, -611, 2328, 83, 1) and status == 0 then
             wait(100)
             sampSendChat("/entrar")
             status = 1
